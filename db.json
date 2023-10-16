@@ -1,13 +1,13 @@
 {
   "api": [
     {
-      "site": { "name": "", "logo": "https://azzrk.com/wp-content/uploads/2023/03/02-e1678609966788.png","width":0, "des": "" },
-      "menu": [
+      "site": { "name": "", "logo": "https://azzrk.com/wp-content/uploads/2023/03/02-e1678609966788.png","width":0, "des": "" }
+    }
+  ],
+  "menu": [
         { "url": "sfsfddd", "text": "sfsfsf", "active": true },
         { "url": "sfsfsf", "text": "ddsfsfd", "active": true },
         { "url": "sfsfddd", "text": "sfsfsf", "active": true },
         { "url": "sfsfsf", "text": "ddsfsfd", "active": true }
       ]
-    }
-  ]
 }
